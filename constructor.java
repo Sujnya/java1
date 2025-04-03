@@ -3,6 +3,7 @@ class constructor {
 
   // constructor
   constructor() {
+    System.out.println("java program");
     System.out.println("Constructor Called:");
     name = "Programiz";
   }
